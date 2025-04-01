@@ -1,6 +1,5 @@
 ---
-'@spectrum-web-components/accordion': patch
-'@spectrum-web-components/color-loupe': patch
+'@spectrum-web-components/avatar': patch
 '@spectrum-web-components/styles': patch
 ---
 
